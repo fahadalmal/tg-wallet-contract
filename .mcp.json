@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "solana-explorer": {
+      "type": "http",
+      "url": "https://explorer.solana.com/mcp"
+    }
+  }
+}
